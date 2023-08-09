@@ -1,0 +1,3 @@
+question,origin_api,gpt_api,gpt_evidence,consistency
+最近七天的安全趋势,getAttackTrend,getAttackTrend,客户的问题是要了解最近七天的安全趋势。getAttackTrend API可以获取一段时间内的安全趋势，包括安全事件发展趋势、安全告警发展趋势、资产概览，以及相应的各个趋势发展图。该API的功能与客户的问题意图匹配，可以提供最近七天的安全趋势数据供客户参考。,1
+最近一个月安全趋势,getAttackTrend,getAttackTrend,客户的问题是要获取最近一个月的安全趋势，而getAttackTrend可以获取一段时间的安全趋势，包括安全事件发展趋势、安全告警发展趋势、资产概览，以及相应的各个趋势发展图。getAttackTrend的功能与客户的问题意图匹配，能够提供客户所需的安全趋势信息。,1
